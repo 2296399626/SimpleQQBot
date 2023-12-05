@@ -1,0 +1,10 @@
+[2023-12-05 05:20:20] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.1.4:37896->183.47.99.24:8080: read: connection timed out 
+[2023-12-05 16:10:21] [WARNING]: no usable sign server 
+[2023-12-05 16:10:21] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-12-05 16:10:26] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-12-05 16:10:28] [WARNING]: 警告: 心跳功能已关闭，若非预期，请检查配置文件。 
+[2023-12-05 16:15:27] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-12-05 16:15:30] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-12-05 16:15:33] [WARNING]: 尝试重连... 
+[2023-12-05 16:15:33] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2023-12-05 16:15:33] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
